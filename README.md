@@ -20,8 +20,8 @@ This project aims to automate the classification of human embryo images based on
 
 ## 📁 Project Structure
 
+![IMG](https://github.com/user-attachments/assets/73b4aa43-28d6-4d51-b30b-64260c4efbea)
 
-![ChatGPT Image May 30, 2025, 11_53_40 PM](https://github.com/user-attachments/assets/b47df8af-bf30-4f6e-a787-18e2957b944f)
 
 
 ## 🔧 Tech Stack
