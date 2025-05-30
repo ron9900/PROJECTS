@@ -80,7 +80,7 @@ Original file is located at
 #     st.subheader(f"✅ Predicted Class: **{prediction_result}**")
 #
 
-!nohup streamlit run app.py --server.port 8501 --server.headless true > streamlit.log 2>&1 &
+nohup streamlit run app.py --server.port 8501 --server.headless true > streamlit.log 2>&1 &
 
 from pyngrok import ngrok
 
