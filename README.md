@@ -22,7 +22,8 @@ This project aims to automate the classification of human embryo images based on
 
 embryo-quality-prediction/
 │
-├── data/ # Dataset and annotation files &#8595
+├── data/ # Dataset and annotation files :arrow_down:
+
 ├── notebooks/ # Jupyter notebooks for EDA and model training
 ├── models/ # Saved model weights
 ├── app/ # Streamlit app code
