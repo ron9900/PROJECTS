@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Hxz4lzYkSpgkPhV4NFPBGdJL0xJxdHcH
 """
 
-!pip install tensorflow streamlit pyngrok numpy pillow
+pip install tensorflow streamlit pyngrok numpy pillow
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
