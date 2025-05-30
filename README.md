@@ -20,3 +20,29 @@ This project aims to automate the classification of human embryo images based on
 
 ## 📁 Project Structure
 
+embryo-quality-prediction/
+│
+├── data/ # Dataset and annotation files
+├── notebooks/ # Jupyter notebooks for EDA and model training
+├── models/ # Saved model weights
+├── app/ # Streamlit app code
+├── utils/ # Helper scripts
+├── requirements.txt # Required Python packages
+├── README.md # Project documentation
+└── main.py # Entrypoint for model training/testing
+
+
+
+## 🔧 Tech Stack
+
+- **Languages:** Python
+- **Libraries:** TensorFlow, Keras, OpenCV, scikit-learn, Streamlit, NumPy, Matplotlib
+- **Model:** DenseNet-201 (Transfer Learning)
+- **Tools:** Google Colab, Roboflow (for annotation), Git, Streamlit, Docker (optional)
+
+## 🖥️ Streamlit App Preview
+
+<p align="center">
+  <img src="app_preview.gif" width="600"/>
+</p>
+
